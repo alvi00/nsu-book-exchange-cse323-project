@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NSU Book Exchange</string>
+    <string name="title_activity_main">NSU Book Exchange</string>
+    <string name="package_name">com.nsu.book.exchange</string>
+    <string name="custom_url_scheme">com.nsu.book.exchange</string>
+</resources>
