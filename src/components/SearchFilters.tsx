@@ -198,7 +198,7 @@ export function SearchFilters({ filters, onChange, resultCount }: SearchFiltersP
           </SheetTrigger>
           <SheetContent side="right" className="w-80">
             <SheetHeader>
-              <SheetTitle>Filters</SheetTitle>
+              <SheetTitle className="mt-20">Filters</SheetTitle>
             </SheetHeader>
             <div className="mt-6">
               <FilterControls />
